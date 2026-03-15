@@ -2,13 +2,13 @@
 
 This tree is the canonical Hectic extension-SDK layout.
 
-In the source repo, it is the export source for the eventual public
-`hectic-extension-sdk` repository. In the published SDK repo, this same tree is
-the canonical starting point for a private custom extension repo.
+In the source repo, it is the upstream export source for the published
+`DemandOps/hectic-extension-sdk` repository. In the published SDK repo, this
+same tree is the canonical starting point for a private custom extension repo.
 
 Start here:
 
-- [START_HERE.md](/Users/adrianmcphee/mydev/hectic/templates/extension-sdk-template/START_HERE.md)
+- [START_HERE.md](START_HERE.md)
 
 What this template gives you:
 
