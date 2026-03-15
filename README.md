@@ -2,9 +2,8 @@
 
 This tree is the canonical Hectic extension-SDK layout.
 
-In the source repo, it is the upstream export source for the published
-`DemandOps/hectic-extension-sdk` repository. In the published SDK repo, this
-same tree is the canonical starting point for a private custom extension repo.
+It is the published layout for `DemandOps/hectic-extension-sdk` and the
+canonical starting point for a private custom extension repo.
 
 ## What This Repo Is
 
